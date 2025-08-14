@@ -1,8 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .contents {
     background-color: rgba(150, 150, 150, 1);
     color: rgba(255, 255, 255, 1);
     text-align: center;
     height: 80px;
-    padding: 0px;
-    margin: 0px;
 }
